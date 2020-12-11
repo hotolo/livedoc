@@ -1,0 +1,235 @@
+﻿2020-12-11T20:21:24.0496887+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-12-11T20:21:24.0506209+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework netcore31 in x64 mode execution started
+2020-12-11T20:21:24.0506322+08:00;VSTestExecutionThread;Info;TestAdapter Location: E:\repos\livedoc\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-12-11T20:21:24.1755017+08:00;VSTestExecutionThread;Info;SpecRun: running tests in E:\repos\livedoc\bin\Debug\netcoreapp3.1\livedoc.dll
+2020-12-11T20:21:24.1764116+08:00;VSTestExecutionThread;Info;Output folder configured to "E:\repos\livedoc\TestResults" (default)
+2020-12-11T20:21:24.1770260+08:00;VSTestExecutionThread;Info;Profile: 
+2020-12-11T20:21:24.3153184+08:00;VSTestExecutionThread;Info;Log file path: E:\repos\livedoc\TestResults\Unnamed project__2020-12-11T202124.log
+2020-12-11T20:21:24.3356016+08:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-12-11T20:21:24.3519806+08:00;Thread#12;Info;Checking license
+2020-12-11T20:21:24.4042537+08:00;Thread#12;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2020-12-11T20:21:38.4163441+08:00;Thread#12;Info;Evaluation delay finished.
+2020-12-11T20:21:38.4413588+08:00;Thread#12;Info;License check completed
+2020-12-11T20:21:38.4431333+08:00;Thread#12;Info;starting test run
+2020-12-11T20:21:38.4678052+08:00;Thread#12;Info;Discovering target: Default
+2020-12-11T20:21:38.4683433+08:00;Thread#12;Info;Discovering tests from assembly: E:\repos\livedoc\bin\Debug\netcoreapp3.1\livedoc.dll
+2020-12-11T20:21:38.7803884+08:00;Thread#12;Info;Discovered tests from assembly: E:\repos\livedoc\bin\Debug\netcoreapp3.1\livedoc.dll
+2020-12-11T20:21:38.7859194+08:00:Test Suite Dump
+2020-12-11T20:21:38.7922468+08:00:#0: Unnamed project/ - 
+2020-12-11T20:21:38.7922965+08:00:#1: Default - 
+2020-12-11T20:21:38.7923031+08:00:#2: livedoc - 
+2020-12-11T20:21:38.7923104+08:00:#3: Put feature-title here - 
+2020-12-11T20:21:38.7969590+08:00:#4: Put your Scenario here - TestAssembly:livedoc/Feature:Put+feature-title+here/Scenario:Put+your+Scenario+here
+2020-12-11T20:21:38.7971815+08:00:End: Test Suite Dump
+2020-12-11T20:21:38.8582398+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-11T20:21:38.8653980+08:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-12-11T20:21:38.8656703+08:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-12-11T20:21:38.8780498+08:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-11T20:21:38.8780888+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-12-11T20:21:38.8780961+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-12-11T20:21:38.8781041+08:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-12-11T20:21:38.8808078+08:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-12-11T20:21:38.8867876+08:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-12-11T20:21:38.8959729+08:00:Thread #0: creating new test thread executor for livedoc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-12-11T20:21:38.9058148+08:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-12-11T20:21:38.9065939+08:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-12-11T20:21:38.9141850+08:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-12-11T20:21:38.9214246+08:00:starting Out Of Process Executor
+2020-12-11T20:21:38.9259592+08:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:38.9349776+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-12-11T20:21:38.9350156+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-12-11T20:21:38.9393640+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:38.9405438+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-12-11T20:21:38.9407369+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-12-11T20:21:38.9408681+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:38.9755385+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:38.9755755+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\Microsoft.VisualStudio.Validation.dll'
+2020-12-11T20:21:38.9757956+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\Microsoft.VisualStudio.Validation.exe'
+2020-12-11T20:21:38.9759706+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:38.9764073+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:38.9764285+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\Microsoft.VisualStudio.Validation.dll'
+2020-12-11T20:21:38.9765645+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\Microsoft.VisualStudio.Validation.exe'
+2020-12-11T20:21:38.9766768+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:38.9770770+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:38.9770975+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\Microsoft.VisualStudio.Validation.dll'
+2020-12-11T20:21:38.9772559+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\Microsoft.VisualStudio.Validation.exe'
+2020-12-11T20:21:38.9773772+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:38.9928152+08:00:Starting callback TCP Rpc server
+2020-12-11T20:21:39.0687575+08:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-12-11T20:21:39.0688725+08:00:Started callback TCP Rpc server on port 32768
+2020-12-11T20:21:39.0688810+08:00:Starting logger TCP Rpc server
+2020-12-11T20:21:39.0942679+08:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-12-11T20:21:39.0943352+08:00:Started logger TCP Rpc server on port 32769
+2020-12-11T20:21:39.4054793+08:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "E:\repos\livedoc\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 21152 --uniqueId "2020-12-11T202124" --outputFolder "E:\repos\livedoc\TestResults" --callbackPort 32768 --loggerPort 32769' in 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:39.4304583+08:00:Executor with PID 20036 has been started successfully.
+2020-12-11T20:21:39.4456671+08:00:Out of Process Executor 20036 started
+2020-12-11T20:21:39.4457070+08:00:Waiting for endpoint
+2020-12-11T20:21:40.4039624+08:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=zh-CN, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:40.4041117+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-12-11T20:21:40.4041191+08:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-12-11T20:21:40.4041377+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:40.4041468+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-12-11T20:21:40.4042178+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-12-11T20:21:40.4042592+08:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:40.4062637+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:40.4062839+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\StreamJsonRpc.resources.dll'
+2020-12-11T20:21:40.4064316+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\StreamJsonRpc.resources.exe'
+2020-12-11T20:21:40.4065350+08:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:40.4068193+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:40.4068350+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\StreamJsonRpc.resources.dll'
+2020-12-11T20:21:40.4069350+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\StreamJsonRpc.resources.exe'
+2020-12-11T20:21:40.4070257+08:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:40.4073419+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:40.4073573+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\StreamJsonRpc.resources.dll'
+2020-12-11T20:21:40.4074802+08:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\StreamJsonRpc.resources.exe'
+2020-12-11T20:21:40.4075727+08:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:40.4092047+08:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=zh-Hans, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:40.4098361+08:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=zh, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:40.4117416+08:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:40.4117625+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-12-11T20:21:40.4117667+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-12-11T20:21:40.4117735+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:40.4117762+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-12-11T20:21:40.4118251+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-12-11T20:21:40.4118682+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:40.4131501+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:40.4131696+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\Microsoft.VisualStudio.Threading.dll'
+2020-12-11T20:21:40.4133060+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\Microsoft.VisualStudio.Threading.exe'
+2020-12-11T20:21:40.4134040+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:40.4136844+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:40.4136999+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\Microsoft.VisualStudio.Threading.dll'
+2020-12-11T20:21:40.4137995+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\Microsoft.VisualStudio.Threading.exe'
+2020-12-11T20:21:40.4138871+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:40.4141933+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:40.4142116+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\Microsoft.VisualStudio.Threading.dll'
+2020-12-11T20:21:40.4143315+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\Microsoft.VisualStudio.Threading.exe'
+2020-12-11T20:21:40.4144242+08:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:41.2029410+08:00:Remote executor port received: 32770
+2020-12-11T20:21:41.2045307+08:00:Creating executor TCP client on port 32770
+2020-12-11T20:21:41.2061667+08:00:Created executor TCP client on port 32770
+2020-12-11T20:21:41.2061935+08:00:Connecting to remote executor TCP server
+2020-12-11T20:21:41.2098129+08:00:Connected remote executor TCP server
+2020-12-11T20:21:41.2105513+08:00:trying to connect to Out of Process Executor the 1 attempt
+2020-12-11T20:21:41.2106097+08:00:Connection to Out of Process Executor established in the 1 attempt
+2020-12-11T20:21:41.6828037+08:00:2020-12-11T20:21:41.6774201+08:00:OutOfProcessTestAssemblyExecutor: initialized for E:\repos\livedoc\bin\Debug\netcoreapp3.1\livedoc.dll on test thread #0
+2020-12-11T20:21:41.7057016+08:00:Endpoint 20036 started
+2020-12-11T20:21:41.7893416+08:00:2020-12-11T20:21:41.7880731+08:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-12-11T20:21:42.1965928+08:00:2020-12-11T20:21:42.1957357+08:00:Thread#0:T:2020-12-11T20:21:42.1909464+08:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-11T20:21:42.2091542+08:00:2020-12-11T20:21:42.2066238+08:00:Thread#0:T:2020-12-11T20:21:42.2062930+08:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-12-11T20:21:42.2204538+08:00:2020-12-11T20:21:42.2194671+08:00:Thread#0:T:2020-12-11T20:21:42.2191441+08:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\lht\.nuget\packages\specflow\3.1.80\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-12-11T20:21:42.6063139+08:00:2020-12-11T20:21:42.6029262+08:00:Thread#0:T:-> Loading plugin E:\repos\livedoc\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-12-11T20:21:42.6143180+08:00:2020-12-11T20:21:42.6117422+08:00:Thread#0:T:2020-12-11T20:21:42.6114170+08:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-11T20:21:42.6346760+08:00:2020-12-11T20:21:42.6312506+08:00:Thread#0:T:-> Using default config
+2020-12-11T20:21:42.6791068+08:00:2020-12-11T20:21:42.6759561+08:00:Thread#0:T:2020-12-11T20:21:42.6755915+08:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-12-11T20:21:42.6873669+08:00:2020-12-11T20:21:42.6852566+08:00:Thread#0:T:2020-12-11T20:21:42.6849618+08:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-12-11T20:21:42.6902268+08:00:2020-12-11T20:21:42.6894668+08:00:Thread#0:T:2020-12-11T20:21:42.6891765+08:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\lht\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-12-11T20:21:42.6948216+08:00:2020-12-11T20:21:42.6940418+08:00:Thread#0:T:2020-12-11T20:21:42.6937106+08:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-12-11T20:21:42.6968232+08:00:2020-12-11T20:21:42.6959965+08:00:Thread#0:T:2020-12-11T20:21:42.6956785+08:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-12-11T20:21:42.6992560+08:00:2020-12-11T20:21:42.6984563+08:00:Thread#0:T:2020-12-11T20:21:42.6981751+08:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\lht\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-12-11T20:21:42.7302579+08:00:2020-12-11T20:21:42.7294171+08:00:Thread#0:T:2020-12-11T20:21:42.7290849+08:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:42.7321708+08:00:2020-12-11T20:21:42.7315075+08:00:Thread#0:T:2020-12-11T20:21:42.7312201+08:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-12-11T20:21:42.7341906+08:00:2020-12-11T20:21:42.7336195+08:00:Thread#0:T:2020-12-11T20:21:42.7333777+08:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\lht\.nuget\packages\microsoft.testplatform.objectmodel\16.2.0\lib\netstandard1.5\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-12-11T20:21:42.8187994+08:00:2020-12-11T20:21:42.8180919+08:00:Thread#0:T:2020-12-11T20:21:42.8178145+08:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-12-11T20:21:42.8205647+08:00:2020-12-11T20:21:42.8199359+08:00:Thread#0:T:2020-12-11T20:21:42.8195710+08:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-12-11T20:21:42.8226872+08:00:2020-12-11T20:21:42.8219763+08:00:Thread#0:T:2020-12-11T20:21:42.8217233+08:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\lht\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-12-11T20:21:43.3688613+08:00:Thread#0: Test #4/0 is started on thread #0
+2020-12-11T20:21:43.4431157+08:00:2020-12-11T20:21:43.4415660+08:00:Thread#0:B:Given Put your Background here
+2020-12-11T20:21:43.5768367+08:00:2020-12-11T20:21:43.5759761+08:00:Thread#0:T:error: The method or operation is not implemented.
+2020-12-11T20:21:43.5824638+08:00:2020-12-11T20:21:43.5816727+08:00:Thread#0:B:When Put your Action here
+2020-12-11T20:21:43.5866173+08:00:2020-12-11T20:21:43.5858628+08:00:Thread#0:T:skipped because of previous errors
+2020-12-11T20:21:43.5990039+08:00:2020-12-11T20:21:43.5967819+08:00:Thread#0:B:Then Put your Condition here
+2020-12-11T20:21:43.6013057+08:00:2020-12-11T20:21:43.6005878+08:00:Thread#0:T:skipped because of previous errors
+2020-12-11T20:21:43.6617840+08:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2020-12-11T20:21:43.6680601+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-11T20:21:43.6682351+08:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-12-11T20:21:43.6682509+08:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-12-11T20:21:43.6684649+08:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-11T20:21:43.6684867+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-12-11T20:21:43.6684917+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-12-11T20:21:43.6684972+08:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-12-11T20:21:43.6685874+08:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-12-11T20:21:43.6686862+08:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-12-11T20:21:43.8426783+08:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0.4702111 seconds
+2020-12-11T20:21:43.8535047+08:00:Thread#0: Test #4/1 is started on thread #0
+2020-12-11T20:21:43.8572336+08:00:2020-12-11T20:21:43.8563976+08:00:Thread#0:B:Given Put your Background here
+2020-12-11T20:21:43.8618545+08:00:2020-12-11T20:21:43.8609125+08:00:Thread#0:T:error: The method or operation is not implemented.
+2020-12-11T20:21:43.8636876+08:00:2020-12-11T20:21:43.8627626+08:00:Thread#0:B:When Put your Action here
+2020-12-11T20:21:43.8655310+08:00:2020-12-11T20:21:43.8646216+08:00:Thread#0:T:skipped because of previous errors
+2020-12-11T20:21:43.8674805+08:00:2020-12-11T20:21:43.8664796+08:00:Thread#0:B:Then Put your Condition here
+2020-12-11T20:21:43.8693604+08:00:2020-12-11T20:21:43.8685365+08:00:Thread#0:T:skipped because of previous errors
+2020-12-11T20:21:43.8756952+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-11T20:21:43.8757585+08:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-12-11T20:21:43.8757666+08:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-12-11T20:21:43.8758712+08:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-11T20:21:43.8758833+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-12-11T20:21:43.8758879+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-12-11T20:21:43.8758928+08:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-12-11T20:21:43.8759184+08:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-12-11T20:21:43.8759354+08:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-12-11T20:21:43.8812144+08:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.027538 seconds
+2020-12-11T20:21:43.8828894+08:00:Thread#0: Test #4/2 is started on thread #0
+2020-12-11T20:21:43.8852910+08:00:2020-12-11T20:21:43.8841326+08:00:Thread#0:B:Given Put your Background here
+2020-12-11T20:21:43.8890116+08:00:2020-12-11T20:21:43.8880880+08:00:Thread#0:T:error: The method or operation is not implemented.
+2020-12-11T20:21:43.8905655+08:00:2020-12-11T20:21:43.8898651+08:00:Thread#0:B:When Put your Action here
+2020-12-11T20:21:43.8922325+08:00:2020-12-11T20:21:43.8914199+08:00:Thread#0:T:skipped because of previous errors
+2020-12-11T20:21:43.8938083+08:00:2020-12-11T20:21:43.8930302+08:00:Thread#0:B:Then Put your Condition here
+2020-12-11T20:21:43.8952645+08:00:2020-12-11T20:21:43.8945755+08:00:Thread#0:T:skipped because of previous errors
+2020-12-11T20:21:43.9169377+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-11T20:21:43.9169953+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-12-11T20:21:43.9170283+08:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-12-11T20:21:43.9170407+08:00:Thread#0:Scheduler: No more tests for thread
+2020-12-11T20:21:43.9574931+08:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.0745085 seconds
+2020-12-11T20:21:43.9827684+08:00:2020-12-11T20:21:43.9819039+08:00:Got Deinitialize Signal
+2020-12-11T20:21:43.9948665+08:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-12-11T20:21:44.0007097+08:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-12-11T20:21:44.0059326+08:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-12-11T20:21:44.0121097+08:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=zh-CN, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:44.0121883+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-12-11T20:21:44.0122225+08:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-12-11T20:21:44.0122549+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:44.0122637+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-12-11T20:21:44.0124408+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'E:\repos\livedoc\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-12-11T20:21:44.0125639+08:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'E:\repos\livedoc\bin\Debug\netcoreapp3.1'
+2020-12-11T20:21:44.0166108+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:44.0167318+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-11T20:21:44.0170518+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-11T20:21:44.0172731+08:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-11T20:21:44.0180435+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:44.0181910+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-11T20:21:44.0185651+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-11T20:21:44.0189033+08:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-11T20:21:44.0197929+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:44.0198265+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-11T20:21:44.0201147+08:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-11T20:21:44.0203692+08:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-11T20:21:44.0219693+08:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=zh-Hans, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:44.0230492+08:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=zh, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-11T20:21:44.0520335+08:00:Thread#-1:Scheduler: get next test for thread -1
+2020-12-11T20:21:44.0520912+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-12-11T20:21:44.0521084+08:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-12-11T20:21:44.0742627+08:00;Thread#12;Info;test run finished
+2020-12-11T20:21:44.0747308+08:00;Thread#12;Info;publishing test results
+2020-12-11T20:21:44.0754321+08:00;Thread#12;Info;Not publishing results.
+2020-12-11T20:21:44.0758084+08:00;Thread#12;Info;test results published
+2020-12-11T20:21:44.0761732+08:00;Thread#12;Info;generating reports
+2020-12-11T20:21:44.4145547+08:00;Thread#12;Info;Starting external report generation process
+2020-12-11T20:21:49.8910331+08:00;Thread#12;Info;Successfully generated reports.
+2020-12-11T20:21:49.8985043+08:00;Thread#12;Info;Successfully generated reports
+2020-12-11T20:21:49.9229076+08:00:Total: 1 (test executions: 3)
+2020-12-11T20:21:49.9295076+08:00:Succeeded: 0
+2020-12-11T20:21:49.9308925+08:00:Ignored: 0
+2020-12-11T20:21:49.9319143+08:00:Pending: 0
+2020-12-11T20:21:49.9319384+08:00:Skipped: 0
+2020-12-11T20:21:49.9329720+08:00:Failed: 1
+2020-12-11T20:21:49.9522285+08:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-12-11T20:21:49.9524739+08:00;VSTestExecutionThread;Info;adding Test Execution Report 'E:\repos\livedoc\TestResults\Unnamed project__2020-12-11T202124.html'
+========== End of log file ==========
