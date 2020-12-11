@@ -1,7 +1,17 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  buildConfiguration: 'Release'
+
 steps:
 - task: DotNetCoreCLI@2
-  displayName: Build
   inputs:
-    command: build
-    projects: '**/*.csproj'
-    arguments: '--configuration $(buildConfiguration)' # Update this to match your need
+    command: 'restore'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
