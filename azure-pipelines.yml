@@ -6,7 +6,7 @@ pool:
 steps:
 - task: SpecFlowPlus@0
   inputs:
-    projectFilePath: '*/Feature'
+    projectFilePath: '*\Feature'
     projectName: 'livedoc'
     testExecutionJson: '**\TestExecution.json'
     projectLanguage: 'en'
