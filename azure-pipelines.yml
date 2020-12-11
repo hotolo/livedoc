@@ -3,8 +3,10 @@ trigger:
 
 pool:
   vmImage: 'windows-latest'
-
 steps:
-- task: DotNetCoreCLI@2
+- task: SpecFlowPlus@0
   inputs:
-    command: 'build'
+    projectFilePath: '/Feature'
+    projectName: 'livedoc'
+    testExecutionJson: '**\TestExecution.json'
+    projectLanguage: 'en'
