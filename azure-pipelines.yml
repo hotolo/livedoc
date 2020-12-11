@@ -4,9 +4,7 @@ trigger:
 pool:
   vmImage: 'windows-latest'
 
-variables:
-  buildConfiguration: 'Release'
-
-- task: DotNetCoreCLI@3
-  inputs:a
+steps:
+- task: DotNetCoreCLI@2
+  inputs:
     command: 'build'
