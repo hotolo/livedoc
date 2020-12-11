@@ -1,4 +1,9 @@
 - task: DotNetCoreCLI@2
+- task: SpecFlowPlus@0
+  inputs:
+    projectFilePath: 'Feature'
+    testExecutionJson: '**\TestExecution.json'
+    projectLanguage: 'en'
   inputs:
     command: 'build'
     projects: 'livedoc.csproj'
